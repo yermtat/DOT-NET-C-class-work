@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.1 First Project", "0.1 First Project\0.1 First Project.csproj", "{7D281C8D-4812-4681-A765-AD974FFF86C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.1 First Project", "0.1 First Project\0.1 First Project.csproj", "{7D281C8D-4812-4681-A765-AD974FFF86C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.1 First Project  (top level statement)", "0.1 First Project  (top level statement)\0.1 First Project  (top level statement).csproj", "{59376D23-7BA6-42A3-B3EA-2E2632BE1D48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.1 First Project  (top level statement)", "0.1 First Project  (top level statement)\0.1 First Project  (top level statement).csproj", "{59376D23-7BA6-42A3-B3EA-2E2632BE1D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators, if-else, switch, for, while", "Operators, if-else, switch, for, while\Operators, if-else, switch, for, while.csproj", "{9B260898-A9EE-4971-863C-22B380C19C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input data", "input data\input data.csproj", "{E8CC7D7E-5A70-46B3-BE4C-28D843AAF50A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{59376D23-7BA6-42A3-B3EA-2E2632BE1D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59376D23-7BA6-42A3-B3EA-2E2632BE1D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59376D23-7BA6-42A3-B3EA-2E2632BE1D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B260898-A9EE-4971-863C-22B380C19C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B260898-A9EE-4971-863C-22B380C19C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B260898-A9EE-4971-863C-22B380C19C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B260898-A9EE-4971-863C-22B380C19C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CC7D7E-5A70-46B3-BE4C-28D843AAF50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CC7D7E-5A70-46B3-BE4C-28D843AAF50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CC7D7E-5A70-46B3-BE4C-28D843AAF50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CC7D7E-5A70-46B3-BE4C-28D843AAF50A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
