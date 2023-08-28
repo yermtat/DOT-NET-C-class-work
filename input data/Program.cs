@@ -14,7 +14,10 @@ int number = 0;
 
 //number = Int32.Parse(Console.ReadLine());
 
-Int32.TryParse(Console.ReadLine(), out number);
+//Int32.TryParse(Console.ReadLine(), out number);
+
+number = Convert.ToInt32(number);
+
 Console.WriteLine(number + 25);
 
 
