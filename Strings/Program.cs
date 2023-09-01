@@ -25,3 +25,6 @@ Console.WriteLine(name[^1]);  // показывает первый элемен�
 Console.WriteLine(name[1..4]);
 Console.WriteLine(name[1..]);
 Console.WriteLine(name[..4]);
+name = name[0] + name[1..];
+
+//p.s. прочитать про stringbuilder

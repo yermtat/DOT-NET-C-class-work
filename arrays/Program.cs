@@ -83,3 +83,15 @@
 #endregion
 
 // p.s. прочитать про класс Array
+
+
+namespace arrays
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
