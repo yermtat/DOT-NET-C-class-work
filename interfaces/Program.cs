@@ -80,7 +80,7 @@ class BackEndDeveloper : Human, IBackEndDeveloper
         Console.WriteLine("I know: ");
         foreach (var language in languages)
         {
-            Console.WriteLine ($"\t{language}");
+            Console.WriteLine ($"{language}");
         };
     }
 }
