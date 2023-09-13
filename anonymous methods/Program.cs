@@ -5,6 +5,9 @@ var evens = ints.Where(
 
 evens.ForEach(Console.WriteLine);
 
+// по сути делегат без имени
+
+
 //bool Even(int numb)
 //{
 //    return numb % 2 == 0;
